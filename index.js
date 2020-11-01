@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
-const developers = ""
+const prefix = "!"
+const developers = "503915203264774155"
 
 ////////
 
@@ -240,4 +240,4 @@ const Sra7a = [
 });
 
 
-client.login("");
+client.login("NzcyNDg4NTY0NDQ0MzY0ODIx.X57aCQ.WgM0J3dUxKIViUTXluq6loxZ4tM");
